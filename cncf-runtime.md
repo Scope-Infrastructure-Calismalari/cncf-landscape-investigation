@@ -61,8 +61,8 @@ Cloud native storage is largely made possible by the Container Storage Interface
 - Ceph + Rook
 - Velero
 
-<p align="center"><img src="images/runtime-layer/image-2.png" alt="Activities in CI"></p>
-<h4 align="center">Snapshot of Cloud Native Storage Tools</h4>
+![](images/runtime-layer/image-2.png)
+*Snapshot of Cloud Native Storage Tools*
 
 ## Container Runtime
 
@@ -102,8 +102,8 @@ Popular Projects/Products
 - gVisor
 - Firecracker
 
-<p align="center"><img src="images/runtime-layer/image-3.png" alt="Activities in CI"></p>
-<h4 align="center">Snapshot of Container Runtime Tools</h4>
+![](images/runtime-layer/image-3.png)
+*Snapshot of Container Runtime Tools*
 
 ## Cloud Native Networking
 
@@ -143,8 +143,8 @@ Popular Projects/Products
 - Antrea
 - NSX-T
 
-<p align="center"><img src="images/runtime-layer/image-3.png" alt="Activities in CI"></p>
-<h4 align="center">Snapshot of Cloud Native Network Tools</h4>
+![](images/runtime-layer/image-3.png)
+*Snapshot of Cloud Native Network Tools*
 
 ### Summary
 
